@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "23RSCE learning dairy"
+  author: "Yifan FENG"
+  date: "2025/1/26"
+  chapters:
+    - index.qmd
+    - wk1.qmd
+    - wk2.qmd
+
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

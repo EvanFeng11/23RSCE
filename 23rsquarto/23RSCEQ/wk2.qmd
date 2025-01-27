@@ -1,0 +1,19 @@
+---
+title: "Xaringen and Quarto"
+
+# Summary
+
+- 本周任务是创建一个 Xaringan 演示文稿，展示 Landsat 8 的功能和应用。
+- 演示文稿内容涵盖总结、应用和反思。
+
+# View the Presentation
+
+
+```{r}
+xaringanExtra::embed_xaringan(url = "URL of your presentation",
+                              ratio = "16:9")
+```
+
+
+
+---
