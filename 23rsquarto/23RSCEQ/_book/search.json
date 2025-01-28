@@ -22,11 +22,11 @@
   {
     "objectID": "wk2.html",
     "href": "wk2.html",
-    "title": "2  Xaringen and Quarto",
+    "title": "2  2 Xaringen and Quarto",
     "section": "",
-    "text": "This week’s assignment was to create a Xaringan presentation in which I demonstrated the features and applications of Landsat 8. We used Quarto to create web pages.\n\n3 View the Presentation\n\nxaringanExtra::embed_xaringan(url = \"https://evanfeng11.github.io/23RSCE/WK2pre.html\",\n                              ratio = \"16:9\")",
+    "text": "2.1 View the Presentation\nThis week’s assignment was to create a Xaringan presentation in which I demonstrated the features and applications of Landsat 8. We used Quarto to create web pages.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Xaringen and Quarto</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>2 Xaringen and Quarto</span>"
     ]
   },
   {
